@@ -26,6 +26,7 @@ Persistency: всички данни се запазват локално чре
 UI с Material Design 3 и поддръжка на light/dark тема
 
 ## Архитектура
+```
 ├── data/
 │ ├── BmiRecord.kt
 │ ├── BMIDao.kt
@@ -43,7 +44,7 @@ UI с Material Design 3 и поддръжка на light/dark тема
 │ └── HistoryViewModelFactory.kt
 └── ui/
 └── theme/        
-
+```
 ### Използвани технологииЛ 
 **Kotlin**
 **Jetpack Compose**
