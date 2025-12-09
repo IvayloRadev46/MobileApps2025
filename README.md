@@ -27,24 +27,22 @@ UI с Material Design 3 и поддръжка на light/dark тема
 
 ## Архитектура
 ├── data/
-│   ├── BmiRecord.kt         
-│   ├── BMIDao.kt             
-│   ├── BMIRepository.kt    
-│   └── Database.kt          
-│
+│ ├── BmiRecord.kt
+│ ├── BMIDao.kt
+│ ├── BMIRepository.kt
+│ └── Database.kt
 ├── Calculator/
-│   ├── CalculatorScreen.kt   
-│   ├── CalculatorViewModel.kt
-│   └── CalculatorViewModelFactory.kt
-│   └──    MainActivity.kt
-│
+│ ├── MainActivity.kt
+│ ├── CalculatorScreen.kt
+│ ├── CalculatorViewModel.kt
+│ └── CalculatorViewModelFactory.kt
 ├── History/
-│   ├── HistoryActivity.kt
-│   ├── HistoryScreen.kt
-│   ├── HistoryViewModel.kt
-│   └── HistoryViewModelFactory.kt
-│
-└──ui/theme/                        
+│ ├── HistoryActivity.kt
+│ ├── HistoryScreen.kt
+│ ├── HistoryViewModel.kt
+│ └── HistoryViewModelFactory.kt
+└── ui/
+└── theme/        
 
 ### Използвани технологииЛ 
 **Kotlin**
